@@ -6,7 +6,8 @@
 
     <groupId>geco</groupId>
     <artifactId>login-generator</artifactId>
-    <version>1.1.0-RELEASE</version>
+    <version>1.1.1-RELEASE</version>
+
 
     <dependencies>
         <dependency>

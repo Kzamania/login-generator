@@ -49,4 +49,10 @@ public class LoginGeneratorTest {
         String res=loginGenerator.generateLoginForNomAndPrenom("Ralling","John");
         assertEquals("JRAL2",res);
     }
+
+    @Test
+    public void CT(){
+        String res=loginGenerator.generateLoginForNomAndPrenom("Du","Paul");
+        assertEquals("PDU",res);
+    }
 }
