@@ -8,14 +8,11 @@
     <artifactId>login-generator</artifactId>
     <version>1.1.1-RELEASE</version>
 
+    <name>login-generator</name>
+    <url>https://jitpack.io/#Kzamania/login-generator/1.1.1</url>
 
 
     <dependencies>
-        <dependency>
-            <groupId>com.github.Kzamania</groupId>
-            <artifactId>login-generator</artifactId>
-            <version>1.1.1</version>
-        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -82,10 +79,5 @@
         </plugins>
     </reporting>
 
-    <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
+
 </project>
